@@ -885,9 +885,9 @@ pip install rdkit scipy numpy pandas vina openbabel-wheel
 | Member | Primary Role |
 |---|---|
 | **Sharon** | MD simulation · molecular docking · system integration · Report: Methodology, Limitations, Clinical Relevance & Future Directions |
-| **Leo** | Database curation · GitHub · OpenBabel pipeline · plot · Report: Analysis, Discussion & formatting |
 | **Tami** | RDKit standardisation · conformer generation · Colab scripting · Report: Abstract & Introduction |
-
+| **Leo** | Database curation · GitHub · OpenBabel pipeline · plot · Report: result, Discussion & formatting |
+result
 <br/>
 
 ---
