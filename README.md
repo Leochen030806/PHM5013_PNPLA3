@@ -847,9 +847,8 @@ EOF
 | Docking — NUV-244 control | `runNUV244_docking_results.zip` | ✅ |
 | Top candidates | `LIG_0071`, `LIG_0200` + NUV-244 (H-added SDF) | ✅ |
 | MD system | `complex_wat.prmtop` + `complex_wat.rst7` | ✅ |
-| MD production (100 ns) | `prod_001.nc`, `prod_002.nc` | ⏳ Pending |
-| Trajectory analysis | RMSD / RMSF / H-bonds / PCA / FEL | ⏳ Pending |
-
+| MD production (100 ns) | `prod_001.nc`, `prod_002.nc` | ✅ |
+| Trajectory analysis | RMSD / RMSF / H-bonds / PCA / FEL | ✅ |
 ---
 
 ## 🛠 Dependencies
@@ -885,9 +884,9 @@ pip install rdkit scipy numpy pandas vina openbabel-wheel
 
 | Member | Primary Role |
 |---|---|
-| **Sharon** | MD simulation · molecular docking · system integration |
-| **Leo** | Database curation · GitHub · OpenBabel pipeline |
-| **Tami** | RDKit standardisation · conformer generation · Colab scripting |
+| **Sharon** | MD simulation · molecular docking · system integration · Report: Methodology, Limitations, Clinical Relevance & Future Directions |
+| **Leo** | Database curation · GitHub · OpenBabel pipeline · plot · Report: Analysis, Discussion & formatting |
+| **Tami** | RDKit standardisation · conformer generation · Colab scripting · Report: Abstract & Introduction |
 
 <br/>
 
